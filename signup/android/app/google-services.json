@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "231084442048",
+    "firebase_url": "https://wokhati-cfb08.firebaseio.com",
+    "project_id": "wokhati-cfb08",
+    "storage_bucket": "wokhati-cfb08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231084442048:android:d029334e0ede5fdd980825",
+        "android_client_info": {
+          "package_name": "com.example.signup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231084442048-ioqjsg02cq454bo6s21dr8ll26oet86n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOe8ygayda7pT69FAKJm0jlHU3srfpPmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231084442048-ioqjsg02cq454bo6s21dr8ll26oet86n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
